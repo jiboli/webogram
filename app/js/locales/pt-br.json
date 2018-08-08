@@ -173,7 +173,7 @@
     "changelog_modal_header_recent_updates_md": "Atualizações recentes no **Telegram Web**",
     "changelog_modal_header_new_updates_md": "**Telegram Web** foi atualizado!",
     "changelog_modal_title_current_version": "versão atual",
-    "changelog_modal_full_description_md": "Aplicativo de mensagens oficial e gratuito baseado na API do Telegram para velocidade e segurança.\n\nSoftware sob a licença GNU GPL versão 3.",
+    "changelog_modal_full_description_md": "FORK do Aplicativo de mensagens oficial e gratuito baseado na API do Telegram para velocidade e segurança.\n\nSoftware sob a licença GNU GPL versão 3.",
     "changelog_modal_changelog_link": "Changelog",
     "changelog_app_version": "Versão {version}",
     "group_create_contacts_modal_title": "Novo grupo",
